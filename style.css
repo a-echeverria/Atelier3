@@ -1,0 +1,17 @@
+h1{
+	font-size: 20px;
+	color: blue;
+}
+
+p{
+	font-size: 12px;
+}
+
+ul {
+	list-style: none;
+}
+
+#btn-1{
+	height: 50px;
+	widows: 50px;
+}
