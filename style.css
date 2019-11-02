@@ -14,4 +14,13 @@ ul {
 #btn-1{
 	height: 50px;
 	widows: 50px;
+.btn {
+    width: 100px;
+    height: auto;
+}
+
+.input {
+    width: 50vw;
+    height: 2em;
+    margin-bottom: 5px;
 }
